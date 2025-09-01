@@ -12,7 +12,7 @@
 </p>
 
 > [!TIP]
-> This game was and still is originally hosted on itch.io, along with all the pretty assets and nice descriptions to go along with it. It even includes version you can play in your browser! Check it out at: https://cowbomowbo.itch.io/sublime-slime-time
+> This game was and still is originally hosted on itch.io, along with all the pretty assets and nice descriptions to go along with it. It even includes an html version you can play in your browser! Check it out at: https://cowbomowbo.itch.io/sublime-slime-time
 
 <h1 align="center">The Story:</h1>
 
